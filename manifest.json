@@ -1,0 +1,14 @@
+{
+  "name": "lontar",
+  "short_name": "lontar",
+  "description": "Baca karya klasik dunia dalam Bahasa Indonesia — via Project Gutenberg.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#cce5f6",
+  "theme_color": "#cce5f6",
+  "lang": "id",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["books", "education"]
+}
