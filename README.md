@@ -2,7 +2,7 @@
 
 baca karya klasik dunia dalam bahasa indonesia — via [Project Gutenberg](https://www.gutenberg.org).
 
-→ **[buka lontar](https://USERNAME.github.io/lontar)**
+→ **[buka lontar](https://napoleon1244.github.io/lontar)**
 
 ---
 
